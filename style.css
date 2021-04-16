@@ -58,9 +58,6 @@ h1, h2{
   margin: 0 auto;
   padding: 60px 0;
 }
-.content-education {
-  width:70%;
-}
 
 h3 {
   margin-bottom: 0;
@@ -123,9 +120,9 @@ color: #F5D0C5;
 ---------------------------------------*/
 .education{
   color: #583E23;
-  background-image:url(feuille.webp);
+  background-image:url(image-beach.jpg);
   background-size: cover;
-  background-position: center right;
+  background-position: center;
   padding-top: 100px;
 }
 
