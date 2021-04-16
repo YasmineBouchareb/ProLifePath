@@ -122,8 +122,8 @@ color: #F5D0C5;
   color: #583E23;
   background-image:url(image-beach.jpg);
   background-size: cover;
-  background-position: center;
-  padding-top: 100px;
+  background-position: bottom;
+  padding-top: 117px;
 }
 
 /* Contact info
